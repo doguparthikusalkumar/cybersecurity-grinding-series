@@ -40,7 +40,8 @@ The current priority is building the fundamentals required to approach these are
 ## 🗺️ Learning Roadmap
 
 - Cybersecurity Fundamentals
-          ↓
+
+  ↓
 - Computer & Operating Systems
           ↓
 - Networking
