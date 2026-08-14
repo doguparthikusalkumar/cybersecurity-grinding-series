@@ -39,25 +39,64 @@ The current priority is building the fundamentals required to approach these are
 
 ## 🗺️ Learning Roadmap
 
-```text
-Cybersecurity Fundamentals
+- Cybersecurity Fundamentals
           ↓
-Computer & Operating Systems
+- Computer & Operating Systems
           ↓
-Networking
+- Networking
           ↓
-Web Technologies
+- Web Technologies
           ↓
-Linux & Windows
+- Linux & Windows
           ↓
-Reconnaissance & Enumeration
+- Reconnaissance & Enumeration
           ↓
-Vulnerability Discovery
+- Vulnerability Discovery
           ↓
-Exploitation
+- Exploitation
           ↓
-Privilege Escalation
+- Privilege Escalation
           ↓
-Penetration Testing
+- Penetration Testing
           ↓
-Red Team Operations
+- Red Team Operations
+
+
+🧪 Platforms & Tools
+
+Platforms:
+TryHackMe
+Hack The Box
+CTF & Security Labs
+
+Tools:
+Nmap
+Burp Suite
+Wireshark
+Gobuster
+Metasploit
+SQLMap
+Hashcat
+Linux Security Tools
+
+📝 Documentation:
+
+Each stage of the journey is documented with:
+
+Concepts learned
+Practical exercises
+Security observations
+Tools and techniques
+Lessons learned
+
+The purpose is not just to complete labs, but to understand, practice, document, and improve.
+
+🔥 Philosophy
+
+Consistency over intensity.
+Understanding over memorization.
+Practice over theory.
+
+This repository represents my ongoing journey toward becoming a skilled cybersecurity professional.
+
+The grind continues. 🚀
