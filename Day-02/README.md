@@ -51,7 +51,6 @@ Different computing devices can have different:
 
 Learned the basic relationship between a client and a server.
 
-```text
 Client
    │
    │ Request
