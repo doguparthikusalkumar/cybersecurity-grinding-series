@@ -35,7 +35,7 @@ The current priority is building the fundamentals required to approach these are
 
 ---
 
-## 🗺️ Learning Roadmap
+## 🗺️ Learning Roadmap 
 
 - Cybersecurity Fundamentals
           ↓
@@ -61,7 +61,7 @@ The current priority is building the fundamentals required to approach these are
   
 ---
 
-🧪 Platforms & Tools
+## 🧪 Platforms & Tools
 
 Platforms:
 TryHackMe
@@ -80,7 +80,7 @@ Linux Security Tools
 
 ---
 
-📝 Documentation:
+## 📝 Documentation:
 
 Each stage of the journey is documented with:
 
@@ -95,7 +95,7 @@ The purpose is not just to complete labs, but to understand, practice, document,
 
 ---
 
-🔥 Philosophy
+## 🔥 Philosophy
 
 Consistency over intensity.
 Understanding over memorization.
