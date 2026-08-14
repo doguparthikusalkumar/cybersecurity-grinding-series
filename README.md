@@ -12,8 +12,6 @@ The goal of this series is to continuously develop practical cybersecurity skill
 - 📝 Technical documentation
 - 🚀 Consistent improvement
 
-I am currently following the **TryHackMe Pre Security Path** to build a strong foundation before progressing into advanced offensive security.
-
 ---
 
 ## 🔴 Primary Focus — Red Team / Offensive Security
@@ -40,8 +38,7 @@ The current priority is building the fundamentals required to approach these are
 ## 🗺️ Learning Roadmap
 
 - Cybersecurity Fundamentals
-
-            ↓
+           ⬇️
 - Computer & Operating Systems
           ↓
 - Networking
