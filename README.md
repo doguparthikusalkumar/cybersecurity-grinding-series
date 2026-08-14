@@ -58,7 +58,8 @@ The current priority is building the fundamentals required to approach these are
 - Penetration Testing
           ↓
 - Red Team Operations
-
+  
+---
 
 🧪 Platforms & Tools
 
@@ -77,6 +78,8 @@ SQLMap
 Hashcat
 Linux Security Tools
 
+---
+
 📝 Documentation:
 
 Each stage of the journey is documented with:
@@ -88,6 +91,9 @@ Tools and techniques
 Lessons learned
 
 The purpose is not just to complete labs, but to understand, practice, document, and improve.
+
+
+---
 
 🔥 Philosophy
 
